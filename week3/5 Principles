@@ -5,9 +5,45 @@
 5 Principles
 </head>
 
+<h2>
+  The site I selected was NewEgg.com
+</h2>
 
+<img src="Affordance.png" width="500" alt=""/>
+<body>
+  This image represents the principle of affordance because as seen to the right of
+  "All Products", "Deals and Services", and "Featured Sellers" there is a small downward pointing triangle.
+  This affords a set of options that will appear below if clicked.
+</body>
 
+<img src="Chunking.png" width="200" alt=""/>
+<body>
+This image represents chunking because different pieces of information are chunked into
+different boxes. One box is for pricing of the selected item, one is for price-matching
+from different sites, and one is for recommended products.
+</body>
 
+<img src="HicksLaw.png" alt=""/>
+<body>
+  This image represents Hick's Law because of the organization of the menu.
+  It presents a multitude of options, but the first option is the most general by far.
+  It groups some of the options together under "Computer Systems", but presents more
+  narrow options below.
+</body>
 
+<img src="RuleofThirds.png" alt=""/>
+<body>
+  This image represents the rule of thirds in a couple of ways. In the navigation menu are three
+  different options: "All Products", "Deals and Services", and "Featured Sellers".
+  At the bottom of the image, we see the rule of thirds again in the three options
+  "Shell Shocker", "Daily Deals", and "Spotlight".
+</body>
+
+<img src="Signal-to-Noise.png" alt=""/>
+<body>
+  I chose this image to look at the signal to noise principle. I believe that NewEgg actually
+  doesn't do very well with signal to noise, as it is very easy to confuse when they are
+  showcasing their deals, and when they are advertising specific products.
+</body>
 
 </html>
